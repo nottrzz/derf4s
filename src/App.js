@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import logo from './logo.png'; 
+import logo from '../public/logo.png'; 
 
 function App() {
   // State untuk mengontrol menu mobile
